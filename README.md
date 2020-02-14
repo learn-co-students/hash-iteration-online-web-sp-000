@@ -1,4 +1,4 @@
-# Iterating Over Hashes With `#each`
+irb# Iterating Over Hashes With `#each`
 
 ## Overview
 
