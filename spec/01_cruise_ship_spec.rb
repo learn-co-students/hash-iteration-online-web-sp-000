@@ -12,6 +12,6 @@ describe "#select_winner" do
       suite_e: "Crumpet the Elf"
       }
 
-    expect(select_winner(passengers)).to eq("Amanda Presley")
+    'expect(select_winner(passengers)).to eq("Amanda Presley")'
   end
 end
