@@ -4,8 +4,10 @@
 #   "Amanda" => 27
 # }
 
-def happy_birthday(birthday_kids)
-  # add your code snippet here!
-end
+def happy_birthday(hash)
+  hash.each do |kidname, age|
+    puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
+  end
+end 
 
 
