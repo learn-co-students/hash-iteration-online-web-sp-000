@@ -5,7 +5,7 @@
 # }
 
 def happy_birthday(hash)
-  hash.each do |kidname, age|
+  hash.each do |kids_name, age|
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
   end
 end 
